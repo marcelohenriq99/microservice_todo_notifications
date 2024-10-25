@@ -1,9 +1,9 @@
 source "https://rubygems.org"
 
 # core business application
-# gem "microservice_todo_core", git: "https://github.com/marcelohenriq99/microservice_todo_core.git"
+gem "microservice_todo_core", git: "https://github.com/marcelohenriq99/microservice_todo_core.git"
 # local
-gem "microservice_todo_core", path: "../microservice_todo_core"
+# gem "microservice_todo_core", path: "../microservice_todo_core"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "7.2.1.1"
